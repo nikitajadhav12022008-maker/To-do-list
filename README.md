@@ -34,10 +34,12 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
-##💾 How It Works:
--Tasks entered by user are saved in tasks.txt
--When the app restarts → tasks automatically reload
--No data loss after closing the application
+## 💾 How It Works:
+
+- Tasks entered by user are saved in tasks.txt
+- When the app restarts → tasks automatically reload
+- No data loss after closing the application
+
 -----
 
 ##▶️ How to Run
