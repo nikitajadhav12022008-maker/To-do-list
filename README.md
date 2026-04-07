@@ -25,12 +25,14 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
-##📂 Project Structure:
+## 📂 Project Structure:
+
 todo-list/
 │── to_do_list.py
 │── tasks.txt   (auto-created)
 │── README.md
------
+
+---
 
 ##▶️ How to Run
 Install Python (3.x recommended)
