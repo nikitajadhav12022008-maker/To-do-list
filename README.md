@@ -70,16 +70,18 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
-##▶️ How to Run
-Install Python (3.x recommended)
-Download the project or clone it
+## ▶️ How to Run:
 
-git clone https://github.com/nikitajadhav12022008/To-do-list.git
-cd To do-list
-Run the program
+- Install Python (3.x recommended)
+- Download the project or clone it
+
+- git clone https://github.com/nikitajadhav12022008/To-do-list.git
+- cd To do-list
+- Run the program
 ```bash
 python to_do_list.py
-------
+
+---
 
 
 
