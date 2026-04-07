@@ -5,7 +5,8 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
-##✨ Features:
+## ✨ Features:
+
 -Add new tasks
 -Delete selected tasks
 -Clear all tasks
@@ -13,7 +14,8 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 -Load saved tasks on startup
 -Warning popups for empty inputs
 -Simple and clean graphical interface
------
+
+---
 
 ##🖥️ Tech Used:
 -Python
