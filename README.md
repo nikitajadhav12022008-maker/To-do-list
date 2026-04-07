@@ -89,7 +89,7 @@ Nikita Jadhav
 
 ---
 
-Made with Python for learning and practice.
+Made with Python Programmimg Language for learning and practice.
 
 
 
