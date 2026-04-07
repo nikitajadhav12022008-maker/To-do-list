@@ -17,11 +17,13 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
-##🖥️ Tech Used:
+## 🖥️ Tech Used:
+
 -Python
 -Tkinter (built-in GUI library)
 -File Handling (text file storage)
------
+
+---
 
 ##📂 Project Structure:
 todo-list/
