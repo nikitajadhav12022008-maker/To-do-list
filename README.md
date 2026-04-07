@@ -7,13 +7,13 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ## ✨ Features:
 
--Add new tasks
--Delete selected tasks
--Clear all tasks
--Auto-save tasks to file
--Load saved tasks on startup
--Warning popups for empty inputs
--Simple and clean graphical interface
+- Add new tasks
+- Delete selected tasks
+- Clear all tasks
+- Auto-save tasks to file
+- Load saved tasks on startup
+- Warning popups for empty inputs
+- Simple and clean graphical interface
 
 ---
 
