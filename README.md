@@ -83,14 +83,12 @@ python to_do_list.py
 
 ---
 
+## 👩‍💻 Author:
 
-
-
-
-
-##👩‍💻 Author:
 Nikita Jadhav
-----
+
+---
+
 Made with Python for learning and practice.
 
 
