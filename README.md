@@ -42,6 +42,16 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 -----
 
+## 🎯 Purpose:
+
+- This project was created to practice:
+- GUI programming
+- Functions
+- File handling
+- User interaction handling
+
+---
+
 ##▶️ How to Run
 Install Python (3.x recommended)
 Download the project or clone it
@@ -55,13 +65,6 @@ python to_do_list.py
 
 
 
-##🎯 Purpose:
--This project was created to practice:
--GUI programming
--Functions
--File handling
--User interaction handling
----------
 
 ##📸 Sample Usage:
 -Enter a task
