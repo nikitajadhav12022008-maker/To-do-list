@@ -1,4 +1,5 @@
-##📝 To-Do List Application (Python GUI):
+## 📝 To-Do List Application (Python GUI):
+
 A simple and beginner-friendly To-Do List desktop application built using Python and Tkinter.
 This app allows users to add, delete, and manage daily tasks with automatic saving — so tasks remain even after closing the program.
 ------
