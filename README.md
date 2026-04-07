@@ -52,6 +52,24 @@ This app allows users to add, delete, and manage daily tasks with automatic savi
 
 ---
 
+## 📸 Sample Usage:
+
+- Enter a task
+- Click Add Task
+- Select a task → Click Delete Selected
+- Use Clear All to remove all tasks
+
+-----
+
+## 🚀 Future Improvements:
+
+- Dark mode theme
+- Task deadlines
+- Priority levels
+- Reminder notifications
+
+---
+
 ##▶️ How to Run
 Install Python (3.x recommended)
 Download the project or clone it
@@ -66,19 +84,7 @@ python to_do_list.py
 
 
 
-##📸 Sample Usage:
--Enter a task
--Click Add Task
--Select a task → Click Delete Selected
--Use Clear All to remove all tasks
------
 
-##🚀 Future Improvements:
--Dark mode theme
--Task deadlines
--Priority levels
--Reminder notifications
--------
 
 ##👩‍💻 Author:
 Nikita Jadhav
