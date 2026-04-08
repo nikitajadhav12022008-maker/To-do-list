@@ -1,4 +1,4 @@
-##python based to do list GUI version:
+## Python Based to do list GUI version:
 
 # Importing tkinter library for creating GUI applications
 import tkinter as tk
